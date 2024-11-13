@@ -1,0 +1,10 @@
+openai:
+  api_key: "your_openai_api_key"
+  base_url: "https://openai.api2d.net/v1"
+
+twitter:
+  username: "your_twitter_username"
+  password: "your_twitter_password"
+  auth_token: "your_twitter_auth_token"
+  email: "your_twitter_email"
+  ct0: "your_twitter_ct0"
